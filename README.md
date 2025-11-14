@@ -4,18 +4,15 @@
 
 **GitHub Repository:** [http://github.com/alhibb/veridian-oracle](http://github.com/alhibb/veridian-oracle)
 
-**Live Demo URL:** `https://veridian-oracle.vercel.app` (Example URL)
-
-**Video Pitch URL:** `https://youtu.be/your-demo-video-id` (Example URL)
 
 ---
 
 ### **Team Members**
 
 *   **Naim Hussain ([@Husteem](https://github.com/Husteem))** - Blockchain Architect
-*   **Ibrahim Rabiu ([@alhibb](https://github.com/alhibb))** - Full-Stack Web3 Innovator
+*   **Ibrahim Rabiu ([@alhibb](https://github.com/alhibb))** - Full-Stack Web3 Developer
 *   **Biu Ali Dauda ([@alidauda](https://github.com/alidauda))** - Full-Stack & AI Specialist
-*   **Muhammad Hamza ([@Hamza1610](https://github.com/Hamza1610))** - AI & Web3 Trailblazer
+*   **Muhammad Hamza ([@Hamza1610](https://github.com/Hamza1610))** - AI Engineer
 
 ---
 
